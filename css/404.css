@@ -57,6 +57,46 @@ img {
 }
 /* nav part end */
 
+/* report part start */
+#report {
+  padding-top: 212px;
+  padding-bottom: 151px;
+}
+.report_body {
+  padding-top: 83px;
+  padding-bottom: 54px;
+  border-radius: 16px;
+  background-color: #7c4ee4;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
+}
+.report_body img {
+  padding-bottom: 58px;
+}
+.report_body p {
+  font-size: 24px;
+  font-weight: normal;
+  color: #fff;
+}
+.report_body .pb {
+  padding-bottom: 36px;
+}
+.report_body a {
+  font-size: 16px;
+  font-weight: 600;
+  color: #333333;
+  padding: 16px 48px;
+  border-radius: 8px;
+  background-color: #fafafa;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+/* report part end */
+
 /* subscribe part start */
 #subscribe {
   padding-top: 123px;

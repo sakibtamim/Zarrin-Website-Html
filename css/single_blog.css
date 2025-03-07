@@ -186,12 +186,14 @@ img {
   font-weight: normal;
   color: #666666;
   padding-bottom: 19px;
+  font-family: "Roboto", sans-serif;
 }
 .blog_post a {
   font-size: 18px;
   font-weight: bold;
   color: #7c4ee4;
   text-decoration: underline;
+  font-family: "Roboto", sans-serif;
 }
 /* blog part end */
 

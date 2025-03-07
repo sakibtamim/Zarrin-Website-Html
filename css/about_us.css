@@ -57,6 +57,126 @@ img {
 }
 /* nav part end */
 
+/* about part start */
+#about {
+  padding-top: 172px;
+  padding-bottom: 161px;
+}
+.about_head {
+  padding-bottom: 123px;
+}
+.about_head h6 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #666666;
+  padding-bottom: 25px;
+}
+.about_head h1 {
+  font-size: 48px;
+  font-weight: bold;
+  color: #333333;
+  padding: 0 200px 24px 200px;
+}
+.about_head p {
+  font-size: 16px;
+  font-weight: normal;
+  color: #666666;
+  font-family: "Roboto", sans-serif;
+  padding: 0 20px;
+}
+.about_img {
+  padding-bottom: 100px;
+}
+.about_txt {
+  padding-bottom: 87px;
+}
+.about_txt h6 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #666666;
+  font-family: "Roboto", sans-serif;
+  padding-bottom: 32px;
+}
+.about_txt h2 {
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 64px;
+  color: #333333;
+}
+.about_txt p {
+  font-size: 16px;
+  font-weight: normal;
+  color: #666666;
+  font-family: "Roboto", sans-serif;
+}
+.about_inner .card-body {
+  padding: 24px 24px 28px 24px;
+  transition: 0.05s;
+  -webkit-transition: 0.05s;
+  -moz-transition: 0.05s;
+  -ms-transition: 0.05s;
+  -o-transition: 0.05s;
+}
+.about_inner h3 {
+  font-size: 72px;
+  font-weight: bold;
+  color: #666666;
+  padding-bottom: 8px;
+  transition: 0.05s;
+  font-family: "Roboto", sans-serif;
+}
+.about_inner .card {
+  border: none;
+  background-color: transparent;
+  transition: 0.05s;
+  border-radius: 16px;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
+}
+
+.about_inner h5 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #7c4ee4;
+  padding-bottom: 16px;
+  margin-bottom: 0;
+  transition: 0.05s;
+}
+.about_inner p {
+  font-size: 16px;
+  font-weight: normal;
+  color: rgba(102, 102, 102, 0.709);
+  padding-bottom: 32px;
+  padding-right: 30px;
+  font-family: "Roboto", sans-serif;
+  transition: 0.05s;
+}
+.about_inner a {
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  border-bottom: 4px solid #fff;
+  font-family: "Roboto", sans-serif;
+  scale: 0;
+  transition: 0.05s;
+}
+.about_inner:hover .card {
+  background-color: #7c4ee4 !important;
+}
+.about_inner:hover h3,
+.about_inner:hover h5 {
+  color: #fff;
+}
+.about_inner:hover p {
+  color: rgba(247, 246, 254, 0.704);
+}
+.about_inner:hover a {
+  scale: 1;
+}
+/* about part end */
+
 /* subscribe part start */
 #subscribe {
   padding-top: 123px;
