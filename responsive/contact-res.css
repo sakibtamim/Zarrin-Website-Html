@@ -1,0 +1,605 @@
+/* for xs devices */
+@media (max-width: 575px) {
+  /* nav part start  */
+  .nav_logo img {
+    width: 80%;
+  }
+  .nav_bar i {
+    color: #7c4ee4;
+    font-size: 20px;
+  }
+  .navbar-toggler {
+    color: transparent;
+    border: 2px solid #7c4ee4;
+  }
+
+  .nav_bar ul {
+    text-align: end;
+  }
+  .nav_bar ul li a {
+    display: inline-block;
+    padding: 10px 0 !important;
+  }
+  .menu_con {
+    text-align: end;
+  }
+  .menu_con img {
+    width: 0;
+  }
+  .menu_con a {
+    padding: 10px 20px;
+  }
+  /* nav part end */
+
+  /* contact part start */
+  #contact {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .con_head {
+    padding-bottom: 40px;
+  }
+  .con_head h1 {
+    font-size: 48px;
+    padding-bottom: 16px;
+  }
+  .con_head p {
+    font-size: 16px;
+    font-weight: normal;
+    color: #999999;
+  }
+  .con_inner {
+    padding: 20px 0;
+  }
+
+  .con_inner img {
+    padding-bottom: 15px;
+    width: 40px;
+  }
+  .con_inner h3 {
+    font-size: 16px;
+    padding-bottom: 16px;
+  }
+  .con_inner p {
+    font-size: 14px;
+    font-weight: normal;
+  }
+  /* contact part end */
+
+  /* contact form part start */
+  #con_form {
+    padding-bottom: 420px;
+  }
+
+  .con_form form {
+    margin-top: -60px;
+    padding: 30px 30px;
+    border-radius: 16px;
+    width: 75%;
+  }
+  .con_form label {
+    font-size: 14px;
+    padding-bottom: 8px;
+  }
+  .con_form input {
+    height: 35px;
+    margin-bottom: 16px;
+    padding: 0 20px;
+    font-size: 14px;
+  }
+  .con_form textarea {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 16px;
+    padding: 5px 20px;
+    font-size: 14px;
+  }
+  .con_btn button {
+    font-size: 14px;
+    padding: 14px 24px;
+  }
+  /* contact form part end */
+
+  /* subscribe part start */
+  #subscribe {
+    padding: 50px 0;
+  }
+  .subs_main h2 {
+    font-size: 30px;
+    padding-bottom: 48px;
+    padding-right: 0;
+  }
+  .subs_main input {
+    height: 40px;
+    padding: 0 16px;
+    font-size: 14px;
+  }
+  .subs_main button {
+    font-size: 14px;
+    padding: 0 16px;
+    height: 40px;
+  }
+  .subs_main p {
+    font-size: 14px;
+    padding: 0;
+  }
+
+  /* subscribe part end */
+
+  /* footer part start  */
+  footer {
+    padding: 30px 0;
+  }
+  .footer_body img {
+    padding-bottom: 30px;
+  }
+  .footer_body ul {
+    padding-bottom: 20px;
+  }
+  .footer_body ul li a {
+    font-size: 14px;
+  }
+  .circle {
+    height: 30px;
+    width: 30px;
+    margin-bottom: 20px;
+  }
+  .circle a {
+    font-size: 12px;
+  }
+  .footer_btm p {
+    font-size: 14px;
+  }
+  /* footer part end  */
+}
+/* for xs devices */
+
+/* for sm devices */
+@media (min-width: 576px) and (max-width: 767px) {
+  /* nav part start  */
+  .nav_logo img {
+    width: 80%;
+  }
+  .nav_bar i {
+    color: #7c4ee4;
+    font-size: 20px;
+  }
+  .navbar-toggler {
+    color: transparent;
+    border: 2px solid #7c4ee4;
+  }
+
+  .nav_bar ul {
+    text-align: end;
+  }
+  .nav_bar ul li a {
+    display: inline-block;
+    padding: 10px 0 !important;
+  }
+  .menu_con {
+    text-align: end;
+  }
+  .menu_con img {
+    width: 0;
+  }
+  .menu_con a {
+    padding: 10px 20px;
+  }
+  /* nav part end */
+
+  /* contact part start */
+  #contact {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .con_head {
+    padding-bottom: 40px;
+  }
+  .con_head h1 {
+    font-size: 48px;
+    padding-bottom: 16px;
+  }
+  .con_head p {
+    font-size: 16px;
+    font-weight: normal;
+    color: #999999;
+  }
+  .con_inner {
+    padding: 20px 0;
+  }
+
+  .con_inner img {
+    padding-bottom: 15px;
+    width: 40px;
+  }
+  .con_inner h3 {
+    font-size: 16px;
+    padding-bottom: 16px;
+  }
+  .con_inner p {
+    font-size: 14px;
+    font-weight: normal;
+  }
+  /* contact part end */
+
+  /* contact form part start */
+  #con_form {
+    padding-bottom: 420px;
+  }
+  .con_form form {
+    margin-top: -60px;
+    padding: 30px 30px;
+    border-radius: 16px;
+    width: 75%;
+  }
+  .con_form label {
+    font-size: 14px;
+    padding-bottom: 8px;
+  }
+  .con_form input {
+    height: 35px;
+    margin-bottom: 16px;
+    padding: 0 20px;
+    font-size: 14px;
+  }
+  .con_form textarea {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 16px;
+    padding: 5px 20px;
+    font-size: 14px;
+  }
+  .con_btn button {
+    font-size: 14px;
+    padding: 14px 24px;
+  }
+  /* contact form part end */
+
+  /* subscribe part start */
+  #subscribe {
+    padding: 50px 0;
+  }
+  .subs_main h2 {
+    font-size: 30px;
+    padding-bottom: 48px;
+    padding-right: 0;
+  }
+  .subs_main input {
+    height: 40px;
+    padding: 0 16px;
+    font-size: 14px;
+  }
+  .subs_main button {
+    font-size: 14px;
+    padding: 0 16px;
+    height: 40px;
+  }
+  .subs_main p {
+    font-size: 14px;
+    padding: 0;
+  }
+
+  /* subscribe part end */
+
+  /* footer part start  */
+  footer {
+    padding: 30px 0;
+  }
+  .footer_body img {
+    padding-bottom: 30px;
+  }
+  .footer_body ul {
+    padding-bottom: 20px;
+  }
+  .footer_body ul li a {
+    font-size: 14px;
+  }
+  .circle {
+    height: 30px;
+    width: 30px;
+    margin-bottom: 20px;
+  }
+  .circle a {
+    font-size: 12px;
+  }
+  .footer_btm p {
+    font-size: 14px;
+  }
+  /* footer part end  */
+}
+/* for sm devices */
+
+/* for md devices */
+@media (min-width: 768px) and (max-width: 991px) {
+  /* nav part start  */
+  .nav_bar i {
+    color: #7c4ee4;
+    font-size: 24px;
+  }
+  .navbar-toggler {
+    color: transparent;
+    border: 2px solid #7c4ee4;
+  }
+
+  .nav_bar ul {
+    text-align: end;
+  }
+  .nav_bar ul li a {
+    display: inline-block;
+    padding: 10px 0 !important;
+  }
+  .menu_con {
+    text-align: end;
+  }
+  .menu_con img {
+    width: 0;
+  }
+  .menu_con a {
+    padding: 14px 30px;
+  }
+  /* nav part end */
+
+  /* contact part start */
+  #contact {
+    padding-top: 160px;
+    padding-bottom: 100px;
+  }
+  .con_head {
+    padding-bottom: 40px;
+  }
+  .con_head h1 {
+    font-size: 50px;
+    padding-bottom: 16px;
+  }
+  .con_head p {
+    font-size: 18px;
+  }
+
+  .con_inner img {
+    padding-bottom: 20px;
+    width: 50px;
+  }
+  .con_inner h3 {
+    padding-bottom: 16px;
+  }
+  .con_inner p {
+    font-size: 16px;
+  }
+  /* contact part end */
+
+  /* contact form part start */
+  #con_form {
+    padding-bottom: 420px;
+  }
+
+  .con_form form {
+    margin-top: -90px;
+    padding: 30px 30px;
+    border-radius: 16px;
+    width: 75%;
+  }
+  .con_form label {
+    font-size: 14px;
+    padding-bottom: 8px;
+  }
+  .con_form input {
+    height: 35px;
+    margin-bottom: 16px;
+    padding: 0 20px;
+    font-size: 14px;
+  }
+  .con_form textarea {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 16px;
+    padding: 5px 20px;
+    font-size: 14px;
+  }
+  .con_btn button {
+    font-size: 14px;
+    padding: 14px 24px;
+  }
+  /* contact form part end */
+
+  /* subscribe part start */
+  #subscribe {
+    padding: 50px 0;
+  }
+  .subs_main h2 {
+    font-size: 30px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+  }
+  .subs_main input {
+    height: 40px;
+    padding: 0 16px;
+    font-size: 14px;
+  }
+  .subs_main button {
+    font-size: 14px;
+    padding: 0 16px;
+    height: 40px;
+  }
+  .subs_main p {
+    font-size: 14px;
+    padding: 0;
+  }
+
+  /* subscribe part end */
+
+  /* footer part start  */
+  footer {
+    padding: 30px 0;
+  }
+  .footer_body img {
+    padding-bottom: 30px;
+  }
+  .footer_body ul {
+    padding-bottom: 20px;
+  }
+  .footer_body ul li a {
+    font-size: 14px;
+  }
+  .circle {
+    height: 30px;
+    width: 30px;
+    margin-bottom: 20px;
+  }
+  .circle a {
+    font-size: 12px;
+  }
+  .footer_btm p {
+    font-size: 14px;
+  }
+  /* footer part end  */
+}
+/* for md devices */
+
+/* for lg devices */
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* nav part start  */
+
+  .menu_con a {
+    padding: 14px 30px;
+  }
+  /* nav part end */
+
+  /* contact part start */
+  #contact {
+    padding-top: 160px;
+    padding-bottom: 100px;
+  }
+  .con_head {
+    padding-bottom: 40px;
+  }
+  .con_head h1 {
+    font-size: 48px;
+    padding-bottom: 16px;
+  }
+  .con_head p {
+    font-size: 17px;
+  }
+
+  .con_inner img {
+    padding-bottom: 20px;
+  }
+  .con_inner h3 {
+    padding-bottom: 17px;
+  }
+  .con_inner p {
+    font-size: 17px;
+  }
+  /* contact part end */
+
+  /* contact form part start */
+  #con_form {
+    padding-bottom: 420px;
+  }
+
+  .con_form form {
+    margin-top: -90px;
+    padding: 30px 30px;
+    border-radius: 16px;
+    width: 80%;
+  }
+  .con_form label {
+    font-size: 14px;
+    padding-bottom: 8px;
+  }
+  .con_form input {
+    height: 35px;
+    margin-bottom: 16px;
+    padding: 0 20px;
+    font-size: 14px;
+  }
+  .con_form textarea {
+    width: 100%;
+    height: 150px;
+    margin-bottom: 16px;
+    padding: 5px 20px;
+    font-size: 14px;
+  }
+  .con_btn button {
+    font-size: 14px;
+    padding: 14px 24px;
+  }
+  /* contact form part end */
+
+  /* subscribe part start */
+  #subscribe {
+    padding: 50px 0;
+  }
+  .subs_main h2 {
+    font-size: 30px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+  }
+  .subs_main input {
+    height: 40px;
+    padding: 0 16px;
+    font-size: 14px;
+  }
+  .subs_main button {
+    font-size: 14px;
+    padding: 0 16px;
+    height: 40px;
+  }
+  .subs_main p {
+    font-size: 14px;
+    padding: 0;
+  }
+  /* subscribe part end */
+
+  /* footer part start  */
+  footer {
+    padding: 50px 0;
+  }
+
+  .footer_body ul {
+    padding-bottom: 20px;
+  }
+  .footer_body ul li a {
+    font-size: 14px;
+  }
+  .circle {
+    height: 30px;
+    width: 30px;
+    margin-bottom: 20px;
+  }
+  .circle a {
+    font-size: 12px;
+  }
+  .footer_btm p {
+    font-size: 16px;
+  }
+  /* footer part end  */
+}
+/* for lg devices */
+
+/* for xl devices */
+@media (min-width: 1200px) and (max-width: 1399px) {
+  /* footer part start  */
+  footer {
+    padding: 50px 0;
+  }
+
+  .footer_body ul {
+    padding-bottom: 20px;
+  }
+  .footer_body ul li a {
+    font-size: 16px;
+  }
+  .circle {
+    height: 40px;
+    width: 40px;
+    margin-bottom: 20px;
+  }
+  .circle a {
+    font-size: 14px;
+  }
+  .footer_btm p {
+    font-size: 16px;
+  }
+  /* footer part end  */
+}
+/* for xl devices */

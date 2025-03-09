@@ -1,0 +1,598 @@
+/* for xs devices */
+@media (max-width: 575px) {
+  /* nav part start  */
+  .nav_logo img {
+    width: 80%;
+  }
+  .nav_bar i {
+    color: #7c4ee4;
+    font-size: 20px;
+  }
+  .navbar-toggler {
+    color: transparent;
+    border: 2px solid #7c4ee4;
+  }
+
+  .nav_bar ul {
+    text-align: end;
+  }
+  .nav_bar ul li a {
+    display: inline-block;
+    padding: 10px 0 !important;
+  }
+  .menu_con {
+    text-align: end;
+  }
+  .menu_con img {
+    width: 0;
+  }
+  .menu_con a {
+    padding: 10px 20px;
+  }
+  /* nav part end */
+
+  /* about part start */
+  #about {
+    padding-top: 120px;
+    padding-bottom: 50px;
+  }
+  .about_head {
+    padding-bottom: 40px;
+  }
+  .about_head h6 {
+    font-size: 12px;
+    padding-bottom: 10px;
+  }
+  .about_head h1 {
+    font-size: 30px;
+    padding: 0 0 10px;
+  }
+  .about_head p {
+    font-size: 14px;
+    padding: 0 20px;
+  }
+  .about_img {
+    padding-bottom: 80px;
+  }
+  .about_txt {
+    padding-bottom: 40px;
+  }
+  .about_txt h6 {
+    font-size: 12px;
+    padding-bottom: 20px;
+  }
+  .about_txt h2 {
+    font-size: 30px;
+    line-height: 30px;
+    color: #333333;
+    padding-bottom: 15px;
+  }
+  .about_txt p {
+    font-size: 14px;
+  }
+  .about_inner .card-body {
+    padding: 20px 20px 24px 20px;
+  }
+  .about_inner h3 {
+    font-size: 45px;
+  }
+
+  .about_inner h5 {
+    font-size: 20px;
+  }
+  .about_inner p {
+    font-size: 14px;
+  }
+  .about_inner a {
+    font-size: 16px;
+    border-bottom: 2px solid #fff;
+  }
+  /* about part end */
+
+  /* subscribe part start */
+  #subscribe {
+    padding: 50px 0;
+  }
+  .subs_main h2 {
+    font-size: 30px;
+    padding-bottom: 48px;
+    padding-right: 0;
+  }
+  .subs_main input {
+    height: 40px;
+    padding: 0 16px;
+    font-size: 14px;
+  }
+  .subs_main button {
+    font-size: 14px;
+    padding: 0 16px;
+    height: 40px;
+  }
+  .subs_main p {
+    font-size: 14px;
+    padding: 0;
+  }
+
+  /* subscribe part end */
+
+  /* footer part start  */
+  footer {
+    padding: 30px 0;
+  }
+  .footer_body img {
+    padding-bottom: 30px;
+  }
+  .footer_body ul {
+    padding-bottom: 20px;
+  }
+  .footer_body ul li a {
+    font-size: 14px;
+  }
+  .circle {
+    height: 30px;
+    width: 30px;
+    margin-bottom: 20px;
+  }
+  .circle a {
+    font-size: 12px;
+  }
+  .footer_btm p {
+    font-size: 14px;
+  }
+  /* footer part end  */
+}
+/* for xs devices */
+
+/* for sm devices */
+@media (min-width: 576px) and (max-width: 767px) {
+  /* nav part start  */
+  .nav_logo img {
+    width: 80%;
+  }
+  .nav_bar i {
+    color: #7c4ee4;
+    font-size: 20px;
+  }
+  .navbar-toggler {
+    color: transparent;
+    border: 2px solid #7c4ee4;
+  }
+
+  .nav_bar ul {
+    text-align: end;
+  }
+  .nav_bar ul li a {
+    display: inline-block;
+    padding: 10px 0 !important;
+  }
+  .menu_con {
+    text-align: end;
+  }
+  .menu_con img {
+    width: 0;
+  }
+  .menu_con a {
+    padding: 10px 20px;
+  }
+  /* nav part end */
+
+  /* about part start */
+  #about {
+    padding-top: 130px;
+    padding-bottom: 50px;
+  }
+  .about_head {
+    padding-bottom: 50px;
+  }
+  .about_head h6 {
+    font-size: 13px;
+    padding-bottom: 10px;
+  }
+  .about_head h1 {
+    font-size: 35px;
+    padding: 0 0 15px;
+  }
+  .about_head p {
+    font-size: 15px;
+    padding: 0 20px;
+  }
+  .about_img {
+    padding-bottom: 80px;
+  }
+  .about_txt {
+    padding-bottom: 40px;
+  }
+  .about_txt h6 {
+    font-size: 13px;
+    padding-bottom: 20px;
+  }
+  .about_txt h2 {
+    font-size: 35px;
+    line-height: 30px;
+    color: #333333;
+    padding-bottom: 15px;
+  }
+  .about_txt p {
+    font-size: 15px;
+  }
+  .about_inner .card-body {
+    padding: 20px 20px 24px 20px;
+  }
+  .about_inner h3 {
+    font-size: 45px;
+  }
+
+  .about_inner h5 {
+    font-size: 20px;
+  }
+  .about_inner p {
+    font-size: 14px;
+  }
+  .about_inner a {
+    font-size: 16px;
+    border-bottom: 2px solid #fff;
+  }
+  /* about part end */
+
+  /* subscribe part start */
+  #subscribe {
+    padding: 50px 0;
+  }
+  .subs_main h2 {
+    font-size: 30px;
+    padding-bottom: 48px;
+    padding-right: 0;
+  }
+  .subs_main input {
+    height: 40px;
+    padding: 0 16px;
+    font-size: 14px;
+  }
+  .subs_main button {
+    font-size: 14px;
+    padding: 0 16px;
+    height: 40px;
+  }
+  .subs_main p {
+    font-size: 14px;
+    padding: 0;
+  }
+
+  /* subscribe part end */
+
+  /* footer part start  */
+  footer {
+    padding: 30px 0;
+  }
+  .footer_body img {
+    padding-bottom: 30px;
+  }
+  .footer_body ul {
+    padding-bottom: 20px;
+  }
+  .footer_body ul li a {
+    font-size: 14px;
+  }
+  .circle {
+    height: 30px;
+    width: 30px;
+    margin-bottom: 20px;
+  }
+  .circle a {
+    font-size: 12px;
+  }
+  .footer_btm p {
+    font-size: 14px;
+  }
+  /* footer part end  */
+}
+/* for sm devices */
+
+/* for md devices */
+@media (min-width: 768px) and (max-width: 991px) {
+  /* nav part start  */
+  .nav_bar i {
+    color: #7c4ee4;
+    font-size: 24px;
+  }
+  .navbar-toggler {
+    color: transparent;
+    border: 2px solid #7c4ee4;
+  }
+
+  .nav_bar ul {
+    text-align: end;
+  }
+  .nav_bar ul li a {
+    display: inline-block;
+    padding: 10px 0 !important;
+  }
+  .menu_con {
+    text-align: end;
+  }
+  .menu_con img {
+    width: 0;
+  }
+  .menu_con a {
+    padding: 14px 30px;
+  }
+  /* nav part end */
+
+  /* about part start */
+  #about {
+    padding-top: 130px;
+    padding-bottom: 50px;
+  }
+  .about_head {
+    padding-bottom: 50px;
+  }
+  .about_head h6 {
+    font-size: 14px;
+    padding-bottom: 15px;
+  }
+  .about_head h1 {
+    font-size: 40px;
+    padding: 0 0 20px;
+  }
+  .about_head p {
+    font-size: 16px;
+    padding: 0 20px;
+  }
+  .about_img {
+    padding-bottom: 90px;
+  }
+  .about_txt {
+    padding-bottom: 40px;
+  }
+  .about_txt h6 {
+    font-size: 14px;
+    padding-bottom: 20px;
+  }
+  .about_txt h2 {
+    font-size: 40px;
+    color: #333333;
+    padding-bottom: 15px;
+  }
+  .about_txt p {
+    font-size: 16px;
+  }
+  .about_inner .card-body {
+    padding: 20px 20px 24px 20px;
+  }
+  .about_inner h3 {
+    font-size: 50px;
+  }
+
+  .about_inner h5 {
+    font-size: 22px;
+  }
+  .about_inner p {
+    font-size: 15px;
+  }
+  .about_inner a {
+    font-size: 16px;
+    border-bottom: 2px solid #fff;
+  }
+  /* about part end */
+
+  /* subscribe part start */
+  #subscribe {
+    padding: 50px 0;
+  }
+  .subs_main h2 {
+    font-size: 30px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+  }
+  .subs_main input {
+    height: 40px;
+    padding: 0 16px;
+    font-size: 14px;
+  }
+  .subs_main button {
+    font-size: 14px;
+    padding: 0 16px;
+    height: 40px;
+  }
+  .subs_main p {
+    font-size: 14px;
+    padding: 0;
+  }
+
+  /* subscribe part end */
+
+  /* footer part start  */
+  footer {
+    padding: 30px 0;
+  }
+  .footer_body img {
+    padding-bottom: 30px;
+  }
+  .footer_body ul {
+    padding-bottom: 20px;
+  }
+  .footer_body ul li a {
+    font-size: 14px;
+  }
+  .circle {
+    height: 30px;
+    width: 30px;
+    margin-bottom: 20px;
+  }
+  .circle a {
+    font-size: 12px;
+  }
+  .footer_btm p {
+    font-size: 14px;
+  }
+  /* footer part end  */
+}
+/* for md devices */
+
+/* for lg devices */
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* nav part start  */
+
+  .menu_con a {
+    padding: 14px 30px;
+  }
+  /* nav part end */
+
+  /* about part start */
+  #about {
+    padding-top: 130px;
+    padding-bottom: 50px;
+  }
+  .about_head {
+    padding-bottom: 50px;
+  }
+  .about_head h6 {
+    font-size: 14px;
+    padding-bottom: 15px;
+  }
+  .about_head h1 {
+    font-size: 40px;
+    padding: 0 0 20px;
+  }
+  .about_head p {
+    font-size: 16px;
+    padding: 0 20px;
+  }
+  .about_img {
+    padding-bottom: 90px;
+  }
+  .about_txt {
+    padding-bottom: 40px;
+  }
+  .about_txt h6 {
+    font-size: 14px;
+    padding-bottom: 20px;
+  }
+  .about_txt h2 {
+    font-size: 40px;
+    line-height: 40px;
+  }
+  .about_txt p {
+    font-size: 16px;
+  }
+  .about_inner .card-body {
+    padding: 20px 20px 24px 20px;
+  }
+  .about_inner h3 {
+    font-size: 45px;
+  }
+
+  .about_inner h5 {
+    font-size: 22px;
+  }
+  .about_inner p {
+    font-size: 15px;
+  }
+  .about_inner a {
+    font-size: 16px;
+    border-bottom: 2px solid #fff;
+  }
+  /* about part end */
+
+  /* subscribe part start */
+  #subscribe {
+    padding: 50px 0;
+  }
+  .subs_main h2 {
+    font-size: 30px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+  }
+  .subs_main input {
+    height: 40px;
+    padding: 0 16px;
+    font-size: 14px;
+  }
+  .subs_main button {
+    font-size: 14px;
+    padding: 0 16px;
+    height: 40px;
+  }
+  .subs_main p {
+    font-size: 14px;
+    padding: 0;
+  }
+  /* subscribe part end */
+
+  /* footer part start  */
+  footer {
+    padding: 50px 0;
+  }
+
+  .footer_body ul {
+    padding-bottom: 20px;
+  }
+  .footer_body ul li a {
+    font-size: 14px;
+  }
+  .circle {
+    height: 30px;
+    width: 30px;
+    margin-bottom: 20px;
+  }
+  .circle a {
+    font-size: 12px;
+  }
+  .footer_btm p {
+    font-size: 16px;
+  }
+  /* footer part end  */
+}
+/* for lg devices */
+
+/* for xl devices */
+@media (min-width: 1200px) and (max-width: 1399px) {
+  /* subscribe part start */
+  #subscribe {
+    padding: 100px 0;
+  }
+  .subs_main h2 {
+    font-size: 40px;
+    padding-bottom: 40px;
+    padding-right: 50px;
+  }
+  .subs_main input {
+    height: 50px;
+    padding: 0 16px;
+    font-size: 14px;
+  }
+  .subs_main button {
+    font-size: 16px;
+    padding: 0 20px;
+    height: 50px;
+  }
+  .subs_main p {
+    font-size: 16px;
+  }
+  /* subscribe part end */
+
+  /* footer part start  */
+  footer {
+    padding: 50px 0;
+  }
+
+  .footer_body ul {
+    padding-bottom: 20px;
+  }
+  .footer_body ul li a {
+    font-size: 16px;
+  }
+  .circle {
+    height: 40px;
+    width: 40px;
+    margin-bottom: 20px;
+  }
+  .circle a {
+    font-size: 14px;
+  }
+  .footer_btm p {
+    font-size: 16px;
+  }
+  /* footer part end  */
+}
+/* for xl devices */
